@@ -45,7 +45,7 @@ body {
 
 
 /* Responsive */
-@media (min-width: 360px) {
+@media (min-width: 300px) {
     #container {
         width: 100%;
         padding: 15px;
@@ -60,7 +60,7 @@ body {
     }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 767px) {
     #container {
         width: 75%;
         padding: 20px;
